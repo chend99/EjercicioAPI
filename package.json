@@ -1,0 +1,23 @@
+{
+  "name": "ejercicioapi",
+  "version": "1.0.0",
+  "description": "Ejercicio de consumo de API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chend99/EjercicioAPI.git"
+  },
+  "author": "ChenDavid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chend99/EjercicioAPI/issues"
+  },
+  "homepage": "https://github.com/chend99/EjercicioAPI#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
